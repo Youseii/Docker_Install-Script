@@ -1,4 +1,4 @@
-# _Docker_Install-Script_
+# 🐋 _Docker_Install-Script_
 
 ## Description
 Simple Bash script who install docker, create a 'hello-world' container and delete him.
